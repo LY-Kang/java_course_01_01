@@ -1,5 +1,5 @@
 package C1;
-#time20240902-1104s
+//time20240902-1447
 import java.util.Scanner;
 
 public class exercise2{
